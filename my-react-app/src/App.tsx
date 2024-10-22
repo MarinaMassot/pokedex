@@ -1,11 +1,9 @@
 import "./App.css";
 
-import MyTitle from "./components/MyTitle";
-
 function App() {
   return (
     <section>
-      <MyTitle />
+      <h1>Hello React</h1>
     </section>
   );
 }
